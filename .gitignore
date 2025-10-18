@@ -1,0 +1,5 @@
+.pio
+.platformio
+compile_commands.json
+*result*
+.vscode
